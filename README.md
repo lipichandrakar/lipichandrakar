@@ -1,27 +1,51 @@
-<h1 align="center">👩‍💻 Lipi Chandrakar</h1>
+# 👩‍💻 Lipi Chandrakar
 
-<p align="center">
-  <b>Data Science | Machine Learning | Analytics</b><br>
-  Turning raw data into meaningful insight & action
-</p>
+Welcome to my GitHub profile! I specialize in **data analysis**, **machine learning**, and building data-driven solutions. My passion lies in transforming raw data into actionable insights and creating predictive models that empower better decision-making.
 
 ---
 
 ## 🚀 About Me
 
-I am a data science enthusiast with a focus on developing end-to-end data-driven solutions. My work involves everything from **data cleaning** and **exploratory analysis** to **machine learning modeling** and **visual storytelling**.
+I am a **data scientist** with experience in:
+- **Data Cleaning & Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **Machine Learning Model Development**
+- **Real-time Data Monitoring Projects**
+- **Data Visualization & Storytelling**
 
-I enjoy applying analytical thinking to solve real-world problems and have experience in both **statistical modeling** and **environmental data monitoring**, using tools like R, Python, and SQL.
+I have hands-on experience with **Python**, **R**, and **SQL** and enjoy working with cutting-edge tools to develop efficient and scalable data-driven solutions.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Technical Skills
 
-- 🔹 Data Cleaning & Preprocessing  
-- 🔹 Machine Learning (Classification, Regression, Ensembles)  
-- 🔹 Feature Engineering & Model Evaluation  
-- 🔹 Data Visualization & Dashboarding  
-- 🔹 Real-time Data Integration
+### **Programming Languages:**
+- **Python**  
+- **R**  
+- **SQL**
+
+### **Data Analysis & Visualization:**
+- **Jupyter Notebook**  
+- **Pandas**  
+- **NumPy**  
+- **Matplotlib**  
+- **Tableau**  
+- **Power BI**
+
+### **Machine Learning Algorithms:**
+- **Logistic Regression**  
+- **Decision Trees**  
+- **Random Forest**  
+- **Gradient Boosting**  
+- **K-Nearest Neighbors (KNN)**  
+- **Sci-kit Learn**  
+- **PyTorch**
+
+### **Other Tools & Technologies:**
+- **Git** (Version Control)  
+- **AWS** (Amazon Web Services)  
+- **SymPy** (Symbolic Math in Python)  
+- **SciPy** (Scientific Computing in Python)
 
 ---
 
@@ -29,13 +53,12 @@ I enjoy applying analytical thinking to solve real-world problems and have exper
 
 ### 🫀 [Heart Disease Prediction in R](https://github.com/lipichandrakar/heart_attack_analysis)
 
-A full machine learning workflow using **Random Forest** to predict heart disease outcomes.
+A complete machine learning pipeline to predict heart disease outcomes using **Random Forest**.
 
 **Highlights:**
 - Data wrangling, scaling, and encoding  
-- EDA and visualizations  
-- Train/test split and performance evaluation  
-- Exported model using `saveRDS()`  
+- Exploratory Data Analysis (EDA)  
+- Model training and performance evaluation  
 
 ![Cholesterol Distribution](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Cholesterol%20Distribution.png?raw=true)
 
@@ -43,27 +66,31 @@ A full machine learning workflow using **Random Forest** to predict heart diseas
 
 ### 📦 [Customer Churn Prediction](https://github.com/lipichandrakar/Customer-Churn-Prediction-Model)
 
-Predicts customer churn using machine learning models. Includes:
-- Feature engineering
-- Logistic regression, decision trees, and ensemble models
-- Evaluation based on accuracy and interpretability
+Predicts which customers are at risk of leaving the service using **Logistic Regression** and **Decision Trees**.
+
+**Highlights:**
+- Feature engineering and model selection  
+- Evaluation using accuracy and interpretability  
+- Business insights for customer retention
 
 ---
 
 ### 🌍 [Real-Time AQI Monitoring](https://github.com/lipichandrakar/Real-Time-Air-Quality-Index-AQI-Monitoring)
 
-Visualizes **real-time Air Quality Index (AQI)** data from public APIs.
+A real-time dashboard to monitor **Air Quality Index (AQI)** from public APIs.
 
-**Stack:** Python, REST APIs, JSON, DataFrames, Plotly  
-**Focus:** Real-time monitoring and environmental data visualization
+**Highlights:**
+- Real-time data processing and visualization  
+- Location-based AQI insights  
+- Built with **Python** and **Plotly** for dynamic reporting
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| 💻 Languages | 📚 Libraries | 🛠️ Tools |
-|--------------|--------------|------------|
-| Python, R, SQL | `tidyverse`, `caret`, `randomForest`, `scikit-learn`, `matplotlib`, `seaborn`, `pandas` | RStudio, Jupyter Notebook, Git, GitHub, VS Code |
+| 💻 Languages | 📚 Libraries & Frameworks | 🛠️ Tools |
+|--------------|---------------------------|-----------|
+| Python, R, SQL | `tidyverse`, `caret`, `randomForest`, `scikit-learn`, `PyTorch`, `matplotlib`, `seaborn`, `pandas` | RStudio, Jupyter Notebook, Git, GitHub, VS Code, Tableau, Power BI, AWS |
 
 ---
 
@@ -79,7 +106,7 @@ Visualizes **real-time Air Quality Index (AQI)** data from public APIs.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lipichandrakar/)
 - 🐙 [GitHub](https://github.com/lipichandrakar)
-- 📧 *youremail@example.com* (replace with your email)
+- 📧 *lc24abs@herts.ac.uk 
 
 ---
 
