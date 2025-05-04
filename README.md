@@ -1,6 +1,6 @@
 # 👩‍💻 Lipi Chandrakar
 
-Welcome to my GitHub profile! I specialize in **data analysis**, **machine learning**, and building data-driven solutions. My passion lies in transforming raw data into actionable insights and creating predictive models that empower better decision-making.
+Welcome to my GitHub! My specialty lies in data analysis, machine learning, and the development of data-driven solutions. Passionate about converting raw data to useful insights and creating predictive models to aid better decision-making.
 
 ---
 
