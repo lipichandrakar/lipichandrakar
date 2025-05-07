@@ -4,7 +4,7 @@ Welcome to my GitHub! My specialty lies in data analysis, machine learning, and 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **data scientist** with experience in:
 - **Data Cleaning & Preprocessing**
