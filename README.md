@@ -106,7 +106,9 @@ A real-time dashboard to monitor **Air Quality Index (AQI)** from public APIs.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lipichandrakar/)
 - 🐙 [GitHub](https://github.com/lipichandrakar)
-- 📧 lc24abs@herts.ac.uk 
+- 🤗 [Hugging Face](https://huggingface.co/lipichandrakar)
+- 📧 lc24abs@herts.ac.uk
+
 
 ---
 
