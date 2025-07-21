@@ -1,6 +1,6 @@
 # 👩‍💻 Lipi Chandrakar
 
-Welcome to my GitHub! I specialize in data science, machine learning, and building GenAI-driven, ethical, data-powered solutions. Currently exploring **socio-demographic bias in large language models (LLMs)** — and how **prompt framing** influences fairness outcomes in generative AI.
+Welcome to my GitHub! I specialize in data science, machine learning, and building GenAI-driven, ethical, data-powered solutions. Currently exploring **socio-demographic bias in large language models (LLMs)** - and how **prompt framing** influences fairness outcomes in generative AI.
 
 ---
 
@@ -13,7 +13,7 @@ I am a **data scientist** and MSc researcher passionate about:
 - **Machine Learning & Sentiment Analysis**
 - **Data Visualization & Storytelling**
 
-Currently pursuing my **MSc in Data Science & Analytics** at the **University of Hertfordshire**. My dissertation investigates the **expression of socio-demographic bias in LLMs**, with a focus on prompt design and fairness metrics — aiming to develop a **conference-level publication** in 2025.
+Currently pursuing my **MSc in Data Science & Analytics** at the **University of Hertfordshire**. My dissertation investigates the **expression of socio-demographic bias in LLMs**, with a focus on prompt design and fairness metrics - aiming to develop a **conference-level publication** in 2025.
 
 ---
 
