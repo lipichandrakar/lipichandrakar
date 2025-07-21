@@ -1,64 +1,76 @@
 # 👩‍💻 Lipi Chandrakar
 
-Welcome to my GitHub! My specialty lies in data analysis, machine learning, and the development of data-driven solutions. Passionate about converting raw data to useful insights and creating predictive models to aid better decision-making.
+Welcome to my GitHub! I specialize in data science, machine learning, and building GenAI-driven, ethical, data-powered solutions. Currently exploring **socio-demographic bias in large language models (LLMs)** — and how **prompt framing** influences fairness outcomes in generative AI.
 
 ---
 
 ## About Me
 
-I am a **data scientist** with experience in:
-- **Data Cleaning & Preprocessing**
+I am a **data scientist** and MSc researcher passionate about:
+- **LLM Prompt Engineering & Evaluation**
+- **Bias & Fairness Auditing in GenAI**
 - **Exploratory Data Analysis (EDA)**
-- **Machine Learning Model Development**
-- **Real-time Data Monitoring Projects**
+- **Machine Learning & Sentiment Analysis**
 - **Data Visualization & Storytelling**
 
-I have hands-on experience with **Python**, **R**, and **SQL** and enjoy working with cutting-edge tools to develop efficient and scalable data-driven solutions.
+Currently pursuing my **MSc in Data Science & Analytics** at the **University of Hertfordshire**. My dissertation investigates the **expression of socio-demographic bias in LLMs**, with a focus on prompt design and fairness metrics — aiming to develop a **conference-level publication** in 2025.
 
 ---
 
 ## 🧠 Technical Skills
 
-### **Programming Languages:**
-- **Python**  
-- **R**  
-- **SQL**
+### **Programming & Markup Languages:**
+- **Python**, **R**, **SQL**, **Markdown**, **LaTeX**
 
-### **Data Analysis & Visualization:**
-- **Jupyter Notebook**  
-- **Pandas**  
-- **NumPy**  
-- **Matplotlib**  
-- **Tableau**  
-- **Power BI**
+### **Data Analysis & GenAI:**
+- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **TextBlob**, **VADER**, **Fairlearn**
 
-### **Machine Learning Algorithms:**
-- **Logistic Regression**  
-- **Decision Trees**  
-- **Random Forest**  
-- **Gradient Boosting**  
-- **K-Nearest Neighbors (KNN)**  
-- **Sci-kit Learn**  
-- **PyTorch**
+### **LLM & Prompt Tools:**
+- **ChatGPT**, **Perplexity**, **DeepSeek**, **Hugging Face Transformers**
 
-### **Other Tools & Technologies:**
-- **Git** (Version Control)  
-- **AWS** (Amazon Web Services)  
-- **SymPy** (Symbolic Math in Python)  
-- **SciPy** (Scientific Computing in Python)
+### **Machine Learning & Model Evaluation:**
+- **Scikit-learn**, **Random Forest**, **Logistic Regression**, **Decision Trees**, **KNN**, **Gradient Boosting**, **PyTorch**
+
+### **Visualization & Dashboards:**
+- **Power BI**, **Tableau**, **Plotly**
+
+### **Tools & Environments:**
+- **Jupyter Notebook**, **RStudio**, **Git**, **GitHub**, **VS Code**, **AWS (basic)**
+
+---
+
+## 🎓 Research Focus: 2025
+
+### ✨ *“How does prompt framing influence the expression of socio-demographic bias in responses from large language models?”*
+
+- Prompt engineering templates for identity-based evaluation  
+- Sentiment & fairness analysis across multiple LLMs (ChatGPT, Perplexity)  
+- Using **TextBlob**, **VADER**, and **Fairlearn** for NLP auditing  
+- Conference paper preparation in progress
 
 ---
 
 ## 📁 Featured Projects
 
+### 🧠 [Prompt Bias & Fairness Framework (In Progress)](https://github.com/lipichandrakar/llm-prompt-bias-framework)
+
+Evaluates how demographic-specific prompts influence LLM responses on fairness, tone, and polarity.
+
+**Highlights:**
+- Multi-model pipeline for ChatGPT and Perplexity  
+- Integration of bias-aware metrics (statistical parity, equal opportunity)  
+- Academic publication planned (Fall 2025)
+
+---
+
 ### 🫀 [Heart Disease Prediction in R](https://github.com/lipichandrakar/heart_attack_analysis)
 
-A complete machine learning pipeline to predict heart disease outcomes using **Random Forest**.
+A complete ML pipeline using **Random Forest** to predict heart disease outcomes.
 
 **Highlights:**
 - Data wrangling, scaling, and encoding  
-- Exploratory Data Analysis (EDA)  
-- Model training and performance evaluation  
+- Exploratory data visualization  
+- Performance evaluation using ROC curves
 
 ![Cholesterol Distribution](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Cholesterol%20Distribution.png?raw=true)
 
@@ -66,31 +78,31 @@ A complete machine learning pipeline to predict heart disease outcomes using **R
 
 ### 📦 [Customer Churn Prediction](https://github.com/lipichandrakar/Customer-Churn-Prediction-Model)
 
-Predicts which customers are at risk of leaving the service using **Logistic Regression** and **Decision Trees**.
+Predicts customer attrition using **Logistic Regression** and **Decision Trees**.
 
 **Highlights:**
-- Feature engineering and model selection  
-- Evaluation using accuracy and interpretability  
-- Business insights for customer retention
+- Feature selection and interpretability  
+- Retention strategies based on churn risk  
+- Business case-driven
 
 ---
 
 ### 🌍 [Real-Time AQI Monitoring](https://github.com/lipichandrakar/Real-Time-Air-Quality-Index-AQI-Monitoring)
 
-A real-time dashboard to monitor **Air Quality Index (AQI)** from public APIs.
+Real-time dashboard for air quality data from public APIs.
 
 **Highlights:**
-- Real-time data processing and visualization  
-- Location-based AQI insights  
-- Built with **Python** and **Plotly** for dynamic reporting
+- API-driven live updates  
+- Interactive visualization with **Plotly**  
+- Location-based AQI alerts
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| 💻 Languages | 📚 Libraries & Frameworks | 🛠️ Tools |
-|--------------|---------------------------|-----------|
-| Python, R, SQL | `tidyverse`, `caret`, `randomForest`, `scikit-learn`, `PyTorch`, `matplotlib`, `seaborn`, `pandas` | RStudio, Jupyter Notebook, Git, GitHub, VS Code, Tableau, Power BI, AWS |
+| 💻 Languages         | 📚 Libraries & Frameworks                                          | 🛠️ Tools |
+|----------------------|---------------------------------------------------------------------|-----------|
+| Python, R, SQL        | `scikit-learn`, `fairlearn`, `textblob`, `vaderSentiment`, `transformers` | Jupyter, VS Code, Git, GitHub, Tableau, Power BI, AWS, RStudio |
 
 ---
 
@@ -107,8 +119,8 @@ A real-time dashboard to monitor **Air Quality Index (AQI)** from public APIs.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lipichandrakar/)
 - 🐙 [GitHub](https://github.com/lipichandrakar)
 - 🤗 [Hugging Face](https://huggingface.co/lipichandrakar)
+- ✉️ lipi.chandrakar09@gmail.com  
 - 📧 lc24abs@herts.ac.uk
-
 
 ---
 
