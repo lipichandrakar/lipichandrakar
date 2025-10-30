@@ -44,9 +44,8 @@ Currently pursuing my **MSc in Data Science & Analytics** at the **University of
 ### ✨ *“How does prompt framing influence the expression of socio-demographic bias in responses from large language models?”*
 
 - Prompt engineering templates for identity-based evaluation  
-- Sentiment & fairness analysis across multiple LLMs (ChatGPT, Perplexity)  
+- Sentiment & fairness analysis across multiple LLMs (ChatGPT, Qwen)  
 - Using **TextBlob**, **VADER**, and **Fairlearn** for NLP auditing  
-- Conference paper preparation in progress
 
 ---
 
