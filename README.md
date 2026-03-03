@@ -1,126 +1,145 @@
-# 👩‍💻 Lipi Chandrakar
+# 👩‍💻 Lipi Chandrakar  
 
-Welcome to my GitHub! I specialize in data science, machine learning, and building GenAI-driven, ethical, data-powered solutions. Currently exploring **socio-demographic bias in large language models (LLMs)** - and how **prompt framing** influences fairness outcomes in generative AI.
-
----
-
-## About Me
-
-I am a **data scientist** and MSc researcher passionate about:
-- **LLM Prompt Engineering & Evaluation**
-- **Bias & Fairness Auditing in GenAI**
-- **Exploratory Data Analysis (EDA)**
-- **Machine Learning & Sentiment Analysis**
-- **Data Visualization & Storytelling**
-
-Currently pursuing my **MSc in Data Science & Analytics** at the **University of Hertfordshire**. My dissertation investigates the **expression of socio-demographic bias in LLMs**, with a focus on prompt design and fairness metrics - aiming to develop a **conference-level publication** in 2025.
+Data Science Postgraduate | LLM Evaluation | AI Fairness | Prompt Engineering  
 
 ---
 
-## 🧠 Technical Skills
+## 👋 About Me  
 
-### **Programming & Markup Languages:**
-- **Python**, **R**, **SQL**, **Markdown**, **LaTeX**
+I completed my **MSc in Data Science & Analytics (Commendation)** from the University of Hertfordshire (UK) in January 2026.
 
-### **Data Analysis & GenAI:**
-- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **TextBlob**, **VADER**, **Fairlearn**
+My research focused on evaluating how **prompt framing influences the expression of socio-demographic bias in large language models (LLMs)**. The project combined NLP-based sentiment analysis with fairness metrics to build a structured and reproducible bias auditing framework.
 
-### **LLM & Prompt Tools:**
-- **ChatGPT**, **Perplexity**, **DeepSeek**, **Hugging Face Transformers**
+I am particularly interested in:
 
-### **Machine Learning & Model Evaluation:**
-- **Scikit-learn**, **Random Forest**, **Logistic Regression**, **Decision Trees**, **KNN**, **Gradient Boosting**, **PyTorch**
+- LLM Evaluation & Prompt Engineering  
+- Responsible & Fair AI  
+- NLP & Sentiment Analysis  
+- Model Interpretability  
+- Applied Machine Learning  
 
-### **Visualization & Dashboards:**
-- **Power BI**, **Tableau**, **Plotly**
-
-### **Tools & Environments:**
-- **Jupyter Notebook**, **RStudio**, **Git**, **GitHub**, **VS Code**, **AWS (basic)**
+Currently seeking full-time roles in **Data Science, AI Evaluation, or Machine Learning Engineering**, while continuing to develop research toward publication and potential doctoral study.
 
 ---
 
-## 🎓 Research Focus: 2025
+## 🧠 Technical Skills  
 
-### ✨ *“How does prompt framing influence the expression of socio-demographic bias in responses from large language models?”*
+### Programming
+- Python  
+- R  
+- SQL  
+- LaTeX  
+- Markdown  
 
-- Prompt engineering templates for identity-based evaluation  
-- Sentiment & fairness analysis across multiple LLMs (ChatGPT, Qwen)  
-- Using **TextBlob**, **VADER**, and **Fairlearn** for NLP auditing  
+### Data Science & NLP
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- TextBlob  
+- VADER  
+- NLTK  
+- Fairlearn  
 
----
+### Machine Learning
+- Scikit-learn  
+- Random Forest  
+- Logistic Regression  
+- Decision Trees  
+- KNN  
+- Gradient Boosting  
+- PyTorch (Foundational)  
 
-## 📁 Featured Projects
+### LLM & Evaluation
+- ChatGPT  
+- Perplexity  
+- Hugging Face Transformers  
+- Prompt Template Engineering  
+- Sentiment Polarity Analysis  
+- Statistical Parity & Equal Opportunity Metrics  
 
-### 🧠 [Prompt Bias & Fairness Framework (In Progress)](https://github.com/lipichandrakar/llm-prompt-bias-framework)
+### Visualisation & BI
+- Power BI  
+- Tableau  
+- Plotly  
 
-Evaluates how demographic-specific prompts influence LLM responses on fairness, tone, and polarity.
-
-**Highlights:**
-- Multi-model pipeline for ChatGPT and Perplexity  
-- Integration of bias-aware metrics (statistical parity, equal opportunity)  
-- Academic publication planned (Fall 2025)
-
----
-
-### 🫀 [Heart Disease Prediction in R](https://github.com/lipichandrakar/heart_attack_analysis)
-
-A complete ML pipeline using **Random Forest** to predict heart disease outcomes.
-
-**Highlights:**
-- Data wrangling, scaling, and encoding  
-- Exploratory data visualization  
-- Performance evaluation using ROC curves
-
-![Cholesterol Distribution](https://github.com/lipichandrakar/heart_attack_analysis/blob/main/images/Cholesterol%20Distribution.png?raw=true)
-
----
-
-### 📦 [Customer Churn Prediction](https://github.com/lipichandrakar/Customer-Churn-Prediction-Model)
-
-Predicts customer attrition using **Logistic Regression** and **Decision Trees**.
-
-**Highlights:**
-- Feature selection and interpretability  
-- Retention strategies based on churn risk  
-- Business case-driven
-
----
-
-### 🌍 [Real-Time AQI Monitoring](https://github.com/lipichandrakar/Real-Time-Air-Quality-Index-AQI-Monitoring)
-
-Real-time dashboard for air quality data from public APIs.
-
-**Highlights:**
-- API-driven live updates  
-- Interactive visualization with **Plotly**  
-- Location-based AQI alerts
+### Tools & Environment
+- Jupyter Notebook  
+- VS Code  
+- Git  
+- GitHub  
+- RStudio  
+- AWS (Foundational Knowledge)  
 
 ---
 
-## 🧰 Tools & Technologies
+## 🎓 MSc Research (Completed 2026)
 
-| 💻 Languages         | 📚 Libraries & Frameworks                                          | 🛠️ Tools |
-|----------------------|---------------------------------------------------------------------|-----------|
-| Python, R, SQL        | `scikit-learn`, `fairlearn`, `textblob`, `vaderSentiment`, `transformers` | Jupyter, VS Code, Git, GitHub, Tableau, Power BI, AWS, RStudio |
+### Prompt Framing and Bias in LLMs: Accessible Evaluation and Mitigation
+
+**Core Contributions:**
+- Designed a structured Prompt Design Framework for bias testing  
+- Evaluated demographic-sensitive prompts across multiple LLM outputs  
+- Applied fairness metrics including statistical parity and equal opportunity  
+- Analysed how linguistic framing alters sentiment polarity and representation  
+
+This work bridges technical model evaluation with responsible AI governance.
 
 ---
 
-## 📈 GitHub Stats
+## 📁 Featured Projects  
+
+### 🧠 Prompt Bias & Fairness Framework  
+Evaluates how demographic-specific prompts influence LLM responses on tone, polarity, and fairness metrics.
+
+- Multi-model evaluation pipeline  
+- Bias-aware metric integration  
+- Reproducible NLP auditing workflow  
+
+---
+
+### 🫀 Heart Disease Prediction (R)  
+Machine learning pipeline predicting cardiovascular outcomes.
+
+- Data preprocessing & feature engineering  
+- Random Forest implementation  
+- ROC curve performance evaluation  
+
+---
+
+### 📦 Customer Churn Prediction  
+Predicts customer attrition using classification models.
+
+- Logistic Regression & Decision Trees  
+- Feature selection & interpretability  
+- Business-driven retention insights  
+
+---
+
+### 🌍 Real-Time AQI Monitoring  
+Interactive dashboard for live air quality tracking.
+
+- API-driven updates  
+- Plotly visualisation  
+- Location-based AQI monitoring  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lipichandrakar&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lipichandrakar&show_icons=true" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lipichandrakar/)
-- 🐙 [GitHub](https://github.com/lipichandrakar)
-- 🤗 [Hugging Face](https://huggingface.co/lipichandrakar)
-- ✉️ lipi.chandrakar09@gmail.com  
-- 📧 lc24abs@herts.ac.uk
+- LinkedIn: https://www.linkedin.com/in/lipichandrakar/  
+- GitHub: https://github.com/lipichandrakar  
+- Hugging Face: https://huggingface.co/lipichandrakar  
+- Email: lipi.chandrakar09@gmail.com  
 
 ---
 
-<p align="center"><i>“Without data, you're just another person with an opinion.” – W. Edwards Deming</i></p>
+> “Rigorous evaluation is the foundation of trustworthy AI.”
