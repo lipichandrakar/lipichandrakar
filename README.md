@@ -1,145 +1,108 @@
-# 👩‍💻 Lipi Chandrakar  
-
-Data Science Postgraduate | LLM Evaluation | AI Fairness | Prompt Engineering  
+# 👩‍💻 Lipi Chandrakar
+Independent Researcher | MSc Data Science and Analytics | 
+AI Fairness | LLM Evaluation | Prompt Engineering
 
 ---
 
-## 👋 About Me  
+## 👋 About Me
+I completed my **MSc in Data Science and Analytics** from the 
+University of Hertfordshire, UK in 2026.
 
-I completed my **MSc in Data Science & Analytics (Commendation)** from the University of Hertfordshire (UK) in January 2026.
-
-My research focused on evaluating how **prompt framing influences the expression of socio-demographic bias in large language models (LLMs)**. The project combined NLP-based sentiment analysis with fairness metrics to build a structured and reproducible bias auditing framework.
+My research investigates how **prompt framing and decoding 
+strategy influence socio-demographic bias in large language 
+models (LLMs)**. I built a structured, reproducible pipeline 
+to evaluate and mitigate bias in open-source LLMs without 
+model retraining.
 
 I am particularly interested in:
-
-- LLM Evaluation & Prompt Engineering  
-- Responsible & Fair AI  
-- NLP & Sentiment Analysis  
-- Model Interpretability  
-- Applied Machine Learning  
-
-Currently seeking full-time roles in **Data Science, AI Evaluation, or Machine Learning Engineering**, while continuing to develop research toward publication and potential doctoral study.
+- LLM Bias Evaluation and Prompt Engineering
+- Responsible and Fair AI
+- NLP and Toxicity Analysis
+- Accessible AI Research for Independent Researchers
 
 ---
 
-## 🧠 Technical Skills  
+## 📄 Published Research
+**More Responses, More Harm: Decoding Strategy, Model 
+Evolution, and Socio-Demographic Bias in Open-Source LLMs**
 
-### Programming
-- Python  
-- R  
-- SQL  
-- LaTeX  
-- Markdown  
+Key findings:
+- Naive multi-sampling (k=3) amplified race-related bias 
+**tenfold** in GPT-2
+- Qwen-3B produced **7x lower** mean bias than GPT-2
+- Lightweight mitigation reduced bias by **26%** without 
+retraining
 
-### Data Science & NLP
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- TextBlob  
-- VADER  
-- NLTK  
-- Fairlearn  
-
-### Machine Learning
-- Scikit-learn  
-- Random Forest  
-- Logistic Regression  
-- Decision Trees  
-- KNN  
-- Gradient Boosting  
-- PyTorch (Foundational)  
-
-### LLM & Evaluation
-- ChatGPT  
-- Perplexity  
-- Hugging Face Transformers  
-- Prompt Template Engineering  
-- Sentiment Polarity Analysis  
-- Statistical Parity & Equal Opportunity Metrics  
-
-### Visualisation & BI
-- Power BI  
-- Tableau  
-- Plotly  
-
-### Tools & Environment
-- Jupyter Notebook  
-- VS Code  
-- Git  
-- GitHub  
-- RStudio  
-- AWS (Foundational Knowledge)  
+📎 Paper: https://doi.org/10.5281/zenodo.20205250
+🤗 Dataset: https://huggingface.co/datasets/lipichandrakar/
+Prompt-Framing-Bias-LLM
 
 ---
 
-## 🎓 MSc Research (Completed 2026)
+## 🧠 Technical Skills
+**Programming**
+Python, R, SQL, Markdown
 
-### Prompt Framing and Bias in LLMs: Accessible Evaluation and Mitigation
+**Data Science and NLP**
+Pandas, NumPy, Matplotlib, Seaborn, Detoxify, NLTK
 
-**Core Contributions:**
-- Designed a structured Prompt Design Framework for bias testing  
-- Evaluated demographic-sensitive prompts across multiple LLM outputs  
-- Applied fairness metrics including statistical parity and equal opportunity  
-- Analysed how linguistic framing alters sentiment polarity and representation  
+**Machine Learning**
+Scikit-learn, PyTorch (Foundational), Random Forest, 
+Logistic Regression, Decision Trees, Gradient Boosting
 
-This work bridges technical model evaluation with responsible AI governance.
+**LLM and Evaluation**
+Hugging Face Transformers, GPT-2, Qwen-3B, Prompt 
+Template Engineering, Toxicity and Bias Scoring, 
+Decoding Strategy Analysis
 
----
+**Visualisation and BI**
+Power BI, Tableau, Plotly
 
-## 📁 Featured Projects  
-
-### 🧠 Prompt Bias & Fairness Framework  
-Evaluates how demographic-specific prompts influence LLM responses on tone, polarity, and fairness metrics.
-
-- Multi-model evaluation pipeline  
-- Bias-aware metric integration  
-- Reproducible NLP auditing workflow  
-
----
-
-### 🫀 Heart Disease Prediction (R)  
-Machine learning pipeline predicting cardiovascular outcomes.
-
-- Data preprocessing & feature engineering  
-- Random Forest implementation  
-- ROC curve performance evaluation  
+**Tools**
+Jupyter Notebook, VS Code, Git, GitHub, RStudio, 
+AWS (Foundational)
 
 ---
 
-### 📦 Customer Churn Prediction  
-Predicts customer attrition using classification models.
+## 🎓 Education
+**MSc Data Science and Analytics**
+University of Hertfordshire, UK — 2026
 
-- Logistic Regression & Decision Trees  
-- Feature selection & interpretability  
-- Business-driven retention insights  
-
----
-
-### 🌍 Real-Time AQI Monitoring  
-Interactive dashboard for live air quality tracking.
-
-- API-driven updates  
-- Plotly visualisation  
-- Location-based AQI monitoring  
+**B.Tech Computer Science and Engineering**
+Shri Shankaracharya Technical Campus, Bhilai — 2023
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lipichandrakar&show_icons=true" />
-</p>
-
----
-
-## 🤝 Connect With Me  
-
-- LinkedIn: https://www.linkedin.com/in/lipichandrakar/  
-- GitHub: https://github.com/lipichandrakar  
-- Hugging Face: https://huggingface.co/lipichandrakar  
-- Email: lipi.chandrakar09@gmail.com  
+## 🏆 Research Activity
+- 📄 Published: Zenodo — DOI: 10.5281/zenodo.20205250
+- 🤗 Dataset: Hugging Face — 19+ downloads worldwide
+- 🎤 Conference: BCS Hertfordshire Innovate CS — June 2026
+- 📬 arXiv: Submission in progress (cs.AI / cs.CL)
 
 ---
 
-> “Rigorous evaluation is the foundation of trustworthy AI.”
+## 📁 Featured Projects
+**🧠 Prompt Framing and Bias in LLMs**
+Empirical investigation of bias in GPT-2 and Qwen-3B across 
+5 demographic categories with open dataset and pipeline.
+
+**🫀 Heart Disease Prediction (R)**
+Random Forest pipeline with ROC curve evaluation.
+
+**📦 Customer Churn Prediction**
+Classification models with business-driven insights.
+
+**🌍 Real-Time AQI Monitoring**
+Interactive Plotly dashboard with live API updates.
+
+---
+
+## 🤝 Connect
+- 💼 LinkedIn: linkedin.com/in/lipichandrakar
+- 🤗 Hugging Face: huggingface.co/lipichandrakar
+- 📧 Email: lipi.chandrakar09@gmail.com
+
+---
+*"Meaningful bias mitigation does not require large 
+infrastructure. It requires careful experimental design 
+and open science."*
